@@ -5,8 +5,9 @@ import os
 
 print("HackerOS v2")
 print("Version 2.00...")
-print("______________________________________________________________________________________________________________________________")
-print("
+print("Wanna Start the Setup? y/n")
+      input("")
+
 
 #Loading with spice
 for i in tqdm (range (1000000000000009009009000000000000000000000000000), 
