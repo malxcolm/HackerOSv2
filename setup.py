@@ -11,11 +11,10 @@ print("connecting to https://github.com/malxcolm/OSfiles.py")
 #Loading with spice
 for i in tqdm (range (10000000), 
     
-             desc="Setting Up Operating System", 
+             desc="Downloading and coding sys files", 
                ascii=False, ncols=75):
-    time.sleep(0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000001)
+    time.sleep(0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
       
 print("Downloaded System Files")
 print("Setting Up digital harddrive")
-    print("created harddrive hdd .py check it by texting python3 hdd.py")
-    print("Please Start OS.py")
+print("created harddrive please type ls")
