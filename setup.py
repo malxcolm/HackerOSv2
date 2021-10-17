@@ -17,6 +17,5 @@ for i in tqdm (range (10000000),
       
 print("Downloaded System Files")
 print("Setting Up digital harddrive")
-    print("created harddrive(hdd).py check it by texting python3 hdd.py")
-    
+    print("created harddrive hdd .py check it by texting python3 hdd.py")
     print("Please Start OS.py")
